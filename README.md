@@ -1,12 +1,22 @@
-# React + Vite
+✅ Features:
+📦 Product Listing using Fake Store API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+➕➖ Add/Remove Items from the cart
 
-Currently, two official plugins are available:
+🔢 Quantity Controls for each item in the cart
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💰 Total Price Calculation with automatic 10% Discount
 
-## Expanding the ESLint configuration
+🌐 Page Navigation handled with React Router
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Tech Stack:
+⚛️ ReactJS
+
+📍 React Router
+
+🎨 Tailwind CSS
+
+🛠️ JavaScript
+
+🌐 Live Demo:
+https://67f50467dcd8aa29703b3c97--reliable-trifle-b47575.netlify.app/
